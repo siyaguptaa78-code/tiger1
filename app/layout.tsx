@@ -48,14 +48,18 @@ export default function RootLayout({
       <body className={`${inter.className} bg-[#0a0a0a] text-white antialiased`}>
         {children}
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-ZQER71ZNPZ" strategy="afterInteractive" />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-ZQER71ZNPZ');
-          `}
-        </Script>
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){window.dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-ZQER71ZNPZ');
+            `
+          }}
+        />
       </body>
     </html>
   );

@@ -1,1 +1,1 @@
-export const WA_LINK = 'https://wa.me/919412834207';
+export const WA_LINK = 'https://wa.me/916026703858';

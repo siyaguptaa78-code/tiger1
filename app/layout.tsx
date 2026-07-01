@@ -28,7 +28,10 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_IN',
   },
-  robots: {
+  robots: "index, follow",
+  verification: {
+    google: "j9d1dOLzkZcyvT48PWGkT_pVC97vegFgZ33q8HBArZo",
+  },
     index: true,
     follow: true,
   },

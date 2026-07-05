@@ -7,9 +7,9 @@ const supportBullets = [
 ];
 
 const paymentBullets = [
-  { icon: '⚡', title: 'Fast Transactions', desc: 'Deposits credited within minutes, withdrawals processed same day.' },
-  { icon: '🌍', title: 'Local Currency Support', desc: 'All transactions in Indian Rupees with local bank support.' },
-  { icon: '₹', title: 'INR Accepted', desc: 'Full support for INR with no currency conversion fees.' },
+  { icon: '⚡', title: 'Fast Transactions', desc: 'Your deposits will be processed within minutes, and withdrawals the same day.' },
+  { icon: '🌍', title: 'Local Currency Support', desc: 'All local currencies are supported with local banks' },
+  { icon: '₹', title: 'INR Accepted', desc: 'Transactions are completed in INR with no conversion fees.' },
 ];
 
 export default function PaymentSupport() {

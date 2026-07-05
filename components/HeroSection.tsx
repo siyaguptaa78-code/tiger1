@@ -76,7 +76,7 @@ export default function HeroSection() {
             {/* Description */}
             <div className="animate-on-scroll opacity-0 translate-y-8 transition-all duration-700 delay-200">
               <p className="text-gray-400 text-lg leading-relaxed max-w-lg">
-                Get your official Tiger365 ID and access the best cricket betting, live sports, and casino games. Secure, fast, and available 24/7 with dedicated customer support.
+                Get your own Tiger365 ID and experience the best betting, live sports, and casino games. We offer fast and easy access to the best cricket betting and live casino sites with 24/7 support
               </p>
             </div>
 

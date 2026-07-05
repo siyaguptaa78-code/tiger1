@@ -23,7 +23,7 @@ export default function OurServices() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-orange-600 to-amber-400 rounded-full mx-auto mt-4"></div>
           <p className="text-gray-500 mt-4 max-w-xl mx-auto">
-            Access premium sports betting, live casino, and gaming all in one place with Tiger365 ID
+            Access to premium sports betting, live casino, and games with Tiger365 ID
           </p>
         </div>
 

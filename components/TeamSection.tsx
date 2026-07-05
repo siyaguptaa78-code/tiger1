@@ -30,9 +30,7 @@ export default function TeamSection() {
         </h2>
 
         <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed mb-12">
-          Our dedicated team of gaming experts and customer support specialists are available 24/7 to ensure
-          you get the best experience. From account setup to live betting assistance — we&apos;ve got you covered
-          every step of the way.
+          We offer you the best customer support and gaming specialists that are always ready to assist you
         </p>
 
         {/* Team avatars */}

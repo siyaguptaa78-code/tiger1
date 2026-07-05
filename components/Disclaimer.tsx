@@ -15,13 +15,7 @@ export default function Disclaimer() {
             <div>
               <h3 className="text-orange-500/80 font-bold text-sm uppercase tracking-wider mb-3">Disclaimer</h3>
               <p className="text-gray-600 text-sm leading-relaxed">
-                <span className="font-semibold text-gray-500">Note: tiger365onlineid.com is an informational website only and does not offer betting services.</span>{' '}
-                This website is intended solely for informational and educational purposes. We do not operate a betting or gambling platform. 
-                We facilitate the provision of online gaming IDs and do not directly engage in any form of sports betting or wagering. 
-                Users are solely responsible for ensuring that accessing such services is legal in their respective jurisdictions. 
-                We are not liable for any financial losses, legal issues, or other consequences arising from the use of gaming IDs obtained through our platform. 
-                Please verify the legality of online betting in your region before proceeding. By using this website, you acknowledge 
-                and agree to this disclaimer. Gambling can be addictive — please bet responsibly.
+                By visiting https://tiger365onlineid.com, you accept and agree to the following terms and conditions: Tiger365 Online ID is an information site only. We do not provide betting services. This site is purely informational, and we do not have any betting or gambling platform. We only help our clients offer online gaming IDs and do not engage in any betting activities on any betting sites. Therefore, we do not take any responsibility for any losses incurred by a client accessing the betting sites. Each client must ensure that it is legal to access these sites in their country of residence. In addition, we do not take any responsibility for any issues and liabilities that may arise from use of the gaming IDs provided by our company. Please make sure that it is legal to access online IDs in your country before using them. By using our website, you accept these terms and conditions and accept this disclaimer of any responsibility. Gambling can be addictive; therefore, betting should be done responsibly.
               </p>
             </div>
           </div>

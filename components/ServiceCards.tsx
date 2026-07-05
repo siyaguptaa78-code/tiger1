@@ -5,8 +5,8 @@ import { WA_LINK } from './constants';
 const serviceCards = [
   {
     id: 'customer-service',
-    title: '24*7 Customer Service',
-    description: 'Our expert support team is available round the clock. Get instant assistance for any queries, account issues, or betting help.',
+    title: '247 Customer Service',
+    description: 'Our support team is always there to answer your questions or concerns. You can rely on our professional assistance 24/7.',
     emoji: '🎧',
     badge: '24/7 Live',
     features: ['Instant WhatsApp Support', 'Quick Response Time', 'Expert Assistance'],
@@ -14,7 +14,7 @@ const serviceCards = [
   {
     id: 'deposit-withdrawal',
     title: 'Easy Deposit and Withdrawal',
-    description: 'Experience lightning-fast transactions with multiple payment options. UPI, IMPS, and bank transfers accepted. INR supported.',
+    description: 'Make fast deposits and withdrawals with multiple payment options available. UPI, IMPS, and net banking are supported with INR as the main currency.',
     emoji: '💸',
     badge: 'Fast & Secure',
     features: ['UPI / IMPS / Bank Transfer', 'INR Supported', 'Instant Processing'],
@@ -22,7 +22,7 @@ const serviceCards = [
   {
     id: 'bonus',
     title: 'Bonus & Rewards',
-    description: 'Earn exciting bonuses on every deposit, referral, and milestone. Our loyalty program rewards consistent players generously.',
+    description: 'You can enjoy exciting rewards and bonuses on all your deposits and referrals. We also have weekly cashbacks for all our valued customers.',
     emoji: '🎁',
     badge: 'Exclusive',
     features: ['Welcome Bonus', 'Referral Rewards', 'Weekly Cashback'],

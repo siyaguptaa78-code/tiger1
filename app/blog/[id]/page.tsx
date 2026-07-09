@@ -7,6 +7,171 @@ import { WA_LINK } from '@/components/constants';
 
 const blogPosts = [
   {
+    id: 'sa20-2027',
+    title: 'SA20 2027: Schedule, Teams, Auction & Everything About Season 5 of South Africa\'s T20 League',
+    excerpt: 'SA20 2027 is expected December 2026–January 2027 with the auction in September. Sunrisers Eastern Cape defend a third title. Teams, past winners, how to watch and FAQs.',
+    category: 'Tournament Guide',
+    date: 'July 8, 2026',
+    readTime: '10 min read',
+    emoji: '🏏',
+    color: 'from-orange-900/30 to-black',
+    content: `
+      <p class="mb-6">Four SA20 seasons, including three by one team. Sunrisers Eastern Cape have made South Africa's franchise tournament their personal trophy cabinet, but the big question ahead of season five - due to be held across December 2026 and January 2027 - is how many others could follow. The league's exact dates have yet to be announced, but the pattern (last season ran 26 December to 25 January) and traditional September auction are likely to be followed. This page will be regularly updated with any further news.</p>
+
+      <p class="mb-6">New to the SA20? Six teams, all owned by IPL franchises, have contested the tournament which has taken place during the South African summer while the rest of the cricketing world has been dormant. It has since evolved into the second most popular T20 league on the planet.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">SA20 2027: The Details</h3>
+      <div class="overflow-x-auto mb-6">
+        <table class="w-full text-left border-collapse border border-gray-700">
+          <thead>
+            <tr class="bg-gray-800">
+              <th class="p-3 border border-gray-700 font-bold">Detail</th>
+              <th class="p-3 border border-gray-700 font-bold">Information</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="p-3 border border-gray-700">Expected season window</td>
+              <td class="p-3 border border-gray-700">Late December 2026 - January 2027 (TBC)</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Expected auction</td>
+              <td class="p-3 border border-gray-700">September 2026</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Teams</td>
+              <td class="p-3 border border-gray-700">6 (all owned by IPL franchises)</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Defending champions</td>
+              <td class="p-3 border border-gray-700">Sunrisers Eastern Cape (3rd title)</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Format</td>
+              <td class="p-3 border border-gray-700">T20, double round-robin group stage and knockout</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Last season</td>
+              <td class="p-3 border border-gray-700">26 December 2025 - 25 January 2026</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Most titles</td>
+              <td class="p-3 border border-gray-700">Sunrisers Eastern Cape (3)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">SA20 2026: What Happened</h3>
+      <p class="mb-6">A tightly-contested final, where Dewald Brevis hit 101 from 56 for Pretoria Capitals, was ultimately overshadowed by a superb spell of bowling from Marco Jansen that saw him claim 3-10 from his spell. Brevis's century aside, Pretoria could only manage 158 for 7 — and the chasing Sunrisers Eastern Cape knocked it off with a 68 from Matthew Breetzke and an unbeaten 63 from captain Tristan Stubbs, winning by six wickets with an unbroken 114-run stand.</p>
+      <p class="mb-6">That's three titles in four years for the Gqeberha-based giants, whose only miss came in 2025, when their arch-rivals MI Cape Town lifted the trophy. These are the only two franchises to have won the tournament thus far.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">SA20 Teams: The Six Franchises</h3>
+      <div class="overflow-x-auto mb-6">
+        <table class="w-full text-left border-collapse border border-gray-700">
+          <thead>
+            <tr class="bg-gray-800">
+              <th class="p-3 border border-gray-700 font-bold">Team</th>
+              <th class="p-3 border border-gray-700 font-bold">IPL Owner</th>
+              <th class="p-3 border border-gray-700 font-bold">Venue</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="p-3 border border-gray-700">Sunrisers Eastern Cape</td>
+              <td class="p-3 border border-gray-700">Sunrisers Hyderabad</td>
+              <td class="p-3 border border-gray-700">St George's Park, Gqeberha</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">MI Cape Town</td>
+              <td class="p-3 border border-gray-700">Mumbai Indians</td>
+              <td class="p-3 border border-gray-700">Newlands, Cape Town</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Joburg Super Kings</td>
+              <td class="p-3 border border-gray-700">Chennai Super Kings</td>
+              <td class="p-3 border border-gray-700">Wanderers, Johannesburg</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Paarl Royals</td>
+              <td class="p-3 border border-gray-700">Rajasthan Royals</td>
+              <td class="p-3 border border-gray-700">Boland Park, Paarl</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Pretoria Capitals</td>
+              <td class="p-3 border border-gray-700">Delhi Capitals</td>
+              <td class="p-3 border border-gray-700">SuperSport Park, Centurion</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Durban's Super Giants</td>
+              <td class="p-3 border border-gray-700">Lucknow Super Giants</td>
+              <td class="p-3 border border-gray-700">Kingsmead, Durban</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <p class="mb-6">As South Africa's answer to England's T20 Blast, the SA20 has the advantage of all franchises being owned by IPL teams. This has helped to create a tournament that serves both as a scouting ground for the IPL and an overflow for South Africa's white-ball talent, as the likes of Dwaine Pretorius, Brevis and Jansen - all SA20 regulars - have enjoyed huge success overseas. The details of the squad rebuild ahead of the fifth season will be discussed in the next few months leading up to the September 2026 auction. The following section will be updated with any news on players retained or signed for 2027.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">SA20 2027: The Auction</h3>
+      <p class="mb-6">The SA20 auction has always fallen in September, a few months before the start of the season. Expect the usual pattern to be followed, including a few big overseas names, as well as a bidding war for South Africa's best T20 players, whose prices are inflated by their home-league success. Dates, purse and retention rules will be set by the league, all of which will be published here once announced.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">SA20 2027: The Dates</h3>
+      <p class="mb-6">Up-to-date fixtures will follow the publication of the full schedule by the SA20 league. The details of the last few seasons have seen a late December start to the tournament, around the time of the South African school holidays, with a double round-robin group stage (each team playing 10 matches) before the knockout stages and final in late January or early February. Evening matches will be scheduled from around 5:30pm local time (9pm IST) to provide good value coverage for Indian viewers, who are a large part of the SA20 fanbase.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">SA20 Points Table</h3>
+      <p class="mb-6">Live table from the opening match of the fifth season. Six teams, double round-robin, top team progresses to Qualifier and the usual playoff ladder to the final. Wins earn four points, with a bonus point on offer for dominant victories, and net run rate breaks ties. Bookmark this page to follow the running SA20 points table.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">How to Watch SA20 2027</h3>
+      <p class="mb-6">SuperSport has the broadcast rights to the SA20 in South Africa, while Indian viewers have been able to watch the tournament on the Star/JioStar networks in recent seasons. Check back on sa20.co.za closer to the date, rather than assuming any deal will be renewed. Live score streaming will be available on ESPNcricinfo and Cricbuzz.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">SA20 Previous Winners</h3>
+      <div class="overflow-x-auto mb-6">
+        <table class="w-full text-left border-collapse border border-gray-700">
+          <thead>
+            <tr class="bg-gray-800">
+              <th class="p-3 border border-gray-700 font-bold">Season</th>
+              <th class="p-3 border border-gray-700 font-bold">Winner</th>
+              <th class="p-3 border border-gray-700 font-bold">Runner-up</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="p-3 border border-gray-700">2023</td>
+              <td class="p-3 border border-gray-700">Sunrisers Eastern Cape</td>
+              <td class="p-3 border border-gray-700">Pretoria Capitals</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">2024</td>
+              <td class="p-3 border border-gray-700">Sunrisers Eastern Cape</td>
+              <td class="p-3 border border-gray-700">Durban's Super Giants</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">2025</td>
+              <td class="p-3 border border-gray-700">MI Cape Town</td>
+              <td class="p-3 border border-gray-700">Sunrisers Eastern Cape</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">2026</td>
+              <td class="p-3 border border-gray-700">Sunrisers Eastern Cape</td>
+              <td class="p-3 border border-gray-700">Pretoria Capitals</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <p class="mb-6">Pretoria Capitals are the only team to have finished as runners-up twice, and Sunrisers Eastern Cape are the only franchise to have featured in all four finals. The fifth season has a massive sub-plot with the emergence of MI Cape Town as a potential challenger to Sunrisers Eastern Cape's dominance.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">SA20 2027: Frequently Asked Questions</h3>
+      <p class="mb-4"><strong>When does the SA20 take place?</strong> The fifth season is expected to begin in late December 2026 and run into January 2027, following a similar pattern to previous years. The final dates to be confirmed.</p>
+      <p class="mb-4"><strong>When is the SA20 2027 auction?</strong> The SA20 auction is expected to take place in September 2026, following the pattern of previous years.</p>
+      <p class="mb-4"><strong>Who won the SA20 2026?</strong> Sunrisers Eastern Cape won the final at Newlands, beating Pretoria Capitals by six wickets in the fourth edition of the tournament. It is the third SA20 title in four seasons for the Gqeberha-based franchise.</p>
+      <p class="mb-4"><strong>How many teams are there in the SA20?</strong> There are six teams that compete in the SA20. They are Sunrisers Eastern Cape, MI Cape Town, Joburg Super Kings, Paarl Royals, Pretoria Capitals and Durban's Super Giants.</p>
+      <p class="mb-4"><strong>Which team has won the most SA20 titles?</strong> Sunrisers Eastern Cape have won three SA20 titles (2023, 2024, 2026), the most of any franchise.</p>
+      <p class="mb-6"><strong>What time do the SA20 matches start in India?</strong> In India, the SA20 matches start at 9pm IST, which makes them one of the most India-friendly international cricket leagues. South Africa is 3.5 hours behind India.</p>
+    `
+  },
+  {
     id: 'ipl-betting-tips-2024',
     title: 'Top IPL Betting Tips for 2026 Season',
     excerpt: 'Get the best strategies for IPL betting this season. Learn how to analyze team performance, pitch conditions, and player form to maximize your winnings.',

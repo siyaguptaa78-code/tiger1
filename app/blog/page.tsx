@@ -11,6 +11,16 @@ export const metadata: Metadata = {
 
 const blogPosts = [
   {
+    id: 'sa20-2027',
+    title: 'SA20 2027: Schedule, Teams, Auction & Everything About Season 5 of South Africa\'s T20 League',
+    excerpt: 'SA20 2027 is expected December 2026–January 2027 with the auction in September. Sunrisers Eastern Cape defend a third title. Teams, past winners, how to watch and FAQs.',
+    category: 'Tournament Guide',
+    date: 'July 8, 2026',
+    readTime: '10 min read',
+    emoji: '🏏',
+    color: 'from-orange-900/30 to-black',
+  },
+  {
     id: 'ipl-betting-tips-2024',
     title: 'Top IPL Betting Tips for 2026 Season',
     excerpt: 'Get the best strategies for IPL betting this season. Learn how to analyze team performance, pitch conditions, and player form to maximize your winnings.',

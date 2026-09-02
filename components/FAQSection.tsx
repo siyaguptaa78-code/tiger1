@@ -5,35 +5,55 @@ import { WA_LINK } from './constants';
 
 const faqs = [
   {
-    id: 'whatsapp-number',
-    question: "Where can I find the Tiger365ID WhatsApp number?",
-    answer:
-      "You can find our Tiger365 ID WhatsApp number directly on this website. Simply click any of the 'GET TIGER 365 ID' buttons and you will be redirected to our official WhatsApp where our team is available 24/7. Our number is +91 85578 77879. Please save this number and reach out for instant account setup.",
+    id: 'what-is-tiger365',
+    question: "What is Tiger365?",
+    answer: "Tiger365 is the brand or website referenced on this domain. Check the site's current pages and terms for the latest information."
   },
   {
-    id: 'multiple-platforms',
-    question: "Can I access multiple platforms with a Tiger365ID account?",
-    answer:
-      "Yes! Tiger365 ID provides access to multiple top-rated betting exchanges and platforms. With a single ID, you can access cricket betting, football, live casino games, Aviator, Teen Patti, and much more. Our team will guide you on how to use your Tiger365 ID across different platforms seamlessly.",
+    id: 'how-does-id-work',
+    question: "How does a Tiger365 ID work?",
+    answer: "An account ID is generally used to identify a user account. Refer to Tiger365's current account instructions and terms for the exact process."
   },
   {
-    id: 'service-247',
-    question: "What does Tiger365ID 24/7 service mean?",
-    answer:
-      "Our 24/7 service means our customer support team is available 24 hours a day, 7 days a week, including weekends and holidays. Whether you have a query at 3 AM or need deposit assistance during a live match, our team is always ready to assist you via WhatsApp, Telegram, or phone call.",
+    id: 'how-to-access',
+    question: "How can I access Tiger365?",
+    answer: "Use the site's current official URL and verify the domain before entering any account information. Follow the access instructions published on the site."
   },
   {
-    id: 'secure-login',
-    question: "Is the Tiger365ID login secure?",
-    answer:
-      "Absolutely. Security is our highest priority. All Tiger365 ID accounts are protected by industry-standard SSL encryption and multi-factor authentication. Your credentials and financial data are fully encrypted and never shared with third parties. We regularly audit our security systems to ensure maximum protection for all our users.",
+    id: 'what-sports',
+    question: "What sports are available on Tiger365?",
+    answer: "Available sports can change. Check the current sports or betting section on the website for the latest list and availability."
   },
   {
-    id: 'cricket-aviator',
-    question: "Can I play Cricket ID and Aviator games with Tiger365ID?",
-    answer:
-      "Yes! Tiger365 ID gives you full access to live cricket betting as well as popular crash games like Aviator. Our platform supports a wide variety of betting options including IPL, T20 World Cup, domestic leagues, and international matches. You can also enjoy Aviator, Dragon Tiger, Roulette, and other exciting casino games — all with a single Tiger365 ID.",
+    id: 'live-sports-info',
+    question: "Does Tiger365 provide live sports information?",
+    answer: "Check the site's current sports section for any live-event information and the terms that apply to its use."
   },
+  {
+    id: 'get-help',
+    question: "How can I get help with my Tiger365 account?",
+    answer: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts."
+  },
+  {
+    id: 'login-info',
+    question: "How do I find Tiger365 login information?",
+    answer: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel."
+  },
+  {
+    id: 'payment-options',
+    question: "What payment options are supported?",
+    answer: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts."
+  },
+  {
+    id: 'trouble-accessing',
+    question: "What should I do if I have trouble accessing my account?",
+    answer: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel."
+  },
+  {
+    id: 'latest-updates',
+    question: "Where can I find the latest Tiger365 updates?",
+    answer: "Refer to Tiger365's current website information and terms for the most accurate answer."
+  }
 ];
 
 export default function FAQSection() {

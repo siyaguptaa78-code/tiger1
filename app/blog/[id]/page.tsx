@@ -7,6 +7,62 @@ import { WA_LINK } from '@/components/constants';
 
 const blogPosts = [
   {
+    id: 'september-sports-calendar-2026',
+    title: 'India\'s September Sports Calendar Heats Up With Football Giants and Major Cricket Developments',
+    excerpt: 'Indian sports fans are heading into one of the busiest periods of the year, with major developments taking place across cricket and football.',
+    category: 'Sports News',
+    date: 'September 4, 2026',
+    readTime: '6 min read',
+    emoji: '⚽🏏',
+    color: 'from-orange-900/30 to-black',
+    content: `
+      <p class="mb-6">Indian sports fans are heading into one of the busiest periods of the year, with major developments taking place across cricket and football. While women's cricket has produced a record-breaking performance from Smriti Mandhana, Indian football is preparing for a rare sequence of high-profile international friendlies against Panama, Brazil and Uruguay.</p>
+      
+      <p class="mb-6">The combination of major fixtures and important team developments has made September particularly interesting for supporters across the country.</p>
+      
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">India Football Prepare for Three Major Tests</h3>
+      <p class="mb-6">The Indian men's football team is set for an unusually demanding international period. India are scheduled to play Panama on September 26 in Bengaluru before facing Brazil and Uruguay in Kolkata on October 3 and October 6 respectively. The fixtures represent a significant opportunity for the Blue Tigers to compete against opponents with considerably greater international experience.</p>
+      <p class="mb-6">The Brazil match is expected to attract especially large attention because of the country's status as a five-time FIFA World Cup champion. For Indian football, such fixtures are valuable not only because of the global attention they generate but also because they allow the national team to measure itself against different tactical and technical styles.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Khalid Jamil Makes Selection Decisions</h3>
+      <p class="mb-6">India head coach Khalid Jamil has also attracted attention after selecting a squad that includes several notable omissions of established players. Jamil has defended the selections, stating that the squad was chosen on merit for the upcoming matches. The decision suggests that the coaching staff is looking beyond reputation and attempting to identify players who can contribute to the team's next phase of development.</p>
+      <p class="mb-6">That approach could make the upcoming matches particularly interesting. Facing Panama, Brazil and Uruguay provides an opportunity for younger players to gain experience against high-level opposition. Even difficult results could provide valuable information about where India's squad needs improvement.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Brazil Fixture Becomes a Landmark Event</h3>
+      <p class="mb-6">The India-Brazil match in Kolkata has emerged as one of the most anticipated football fixtures involving the Indian national team in recent memory. Brazil's worldwide popularity ensures that interest will extend well beyond regular Indian football followers. The match is also expected to create a major atmosphere at Salt Lake Stadium.</p>
+      <p class="mb-6">Former India captain Sunil Chhetri has already described himself as feeling "a little jealous" about the current generation receiving an opportunity to face Brazil. His comments underline just how unusual the fixture is for Indian footballers. For the current squad, however, the focus must remain on performance rather than the occasion.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Cricket Produces a Historic Performance</h3>
+      <p class="mb-6">While football is generating headlines, cricket continues to dominate India's sporting conversation. Smriti Mandhana delivered a historic performance against Hong Kong in the Women's Asia Cup, scoring 124 from 64 deliveries. The innings helped India reach 193/5 before the team dismissed Hong Kong for only 56, completing a 137-run victory.</p>
+      <p class="mb-6">Mandhana's performance was particularly significant because she became the highest run-scorer in women's international cricket, moving beyond Mithali Raj's previous benchmark. She also reached another major milestone by becoming the leading century-maker in women's international cricket. For Indian women's cricket, the performance represents another major moment in the sport's rapid development.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">India's Men Also Facing Important Questions</h3>
+      <p class="mb-6">The men's national cricket team is entering a period of review following a difficult run of results. The BCCI has recently held discussions involving senior members of India's cricket setup, with player workload and injury management among the major subjects.</p>
+      <p class="mb-6">The packed international calendar has raised questions about how players can balance Test cricket, limited-overs internationals and franchise cricket. The board has indicated that future scheduling needs to provide players with more recovery time, particularly before demanding overseas tours. The issue is particularly important for India's fast bowlers, who face significant physical demands across formats.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Yuzvendra Chahal Provides Another Indian Highlight</h3>
+      <p class="mb-6">Another Indian player currently attracting attention is Yuzvendra Chahal. The leg-spinner produced an impressive performance for Northamptonshire in the English County Championship, including a four-wicket haul and a memorable dismissal of England's Ben Stokes.</p>
+      <p class="mb-6">The performance has provided another reminder of India's depth in spin bowling and Chahal's ability to remain effective in different cricketing conditions. County cricket continues to offer Indian players valuable experience outside domestic competitions, particularly when adapting to English pitches.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">What to Expect From India's Football Fixtures</h3>
+      <p class="mb-6">The Panama match should provide India's first major indication of how the new-look squad performs against stronger opposition. Panama's recent World Cup experience means India cannot expect an easy contest. The Blue Tigers will likely need to defend compactly while making the most of opportunities during transitions.</p>
+      <p class="mb-6">Brazil represents a significantly bigger challenge. The difference in technical quality and international experience could make possession difficult for India, meaning tactical discipline will be crucial. The Uruguay match will provide another opportunity to assess the squad against a South American opponent known for its competitive style.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Predictions Will Remain Difficult</h3>
+      <p class="mb-6">International friendlies are often difficult to predict because coaches can experiment with line-ups and formations. For India, the primary objective should be assessing players and building towards future competitive fixtures rather than simply chasing results.</p>
+      <p class="mb-6">Fans following match predictions or publicly available odds should therefore treat them as probability-based assessments rather than guarantees. Team selection, injuries, tactical experimentation and individual performances can dramatically alter a friendly. The same applies to cricket, where conditions and player availability can influence outcomes significantly.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Why September Matters for Indian Sports</h3>
+      <p class="mb-6">The current sporting calendar demonstrates how India's position in international sport continues to evolve. Indian cricket remains one of the country's strongest sporting forces, while football is increasingly seeking opportunities to compete against elite international opposition.</p>
+      <p class="mb-6">The upcoming football fixtures could generate significant interest among younger fans, while Mandhana's record provides another example of the growing stature of women's sport. Together, these developments make September an important month for Indian sports.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">A New Generation Takes Centre Stage</h3>
+      <p class="mb-6">Whether it is Mandhana rewriting the record books, Chahal performing in English conditions or young footballers preparing to face Brazil and Uruguay, Indian sport is entering a period where established names and emerging talent are sharing the spotlight.</p>
+      <p class="mb-6">The next few weeks should provide plenty of compelling storylines. For Indian fans, the attraction is not limited to winning and losing. These fixtures and performances provide an opportunity to understand how India's athletes and teams measure themselves against the world's best.</p>
+      <p class="mb-6">And with major cricket and football events continuing throughout the month, September could become one of the most eventful periods on the Indian sporting calendar in 2026.</p>
+    `
+  },
+  {
     id: 'sa20-2027',
     title: 'SA20 2027: Schedule, Teams, Auction & Everything About Season 5 of South Africa\'s T20 League',
     excerpt: 'SA20 2027 is expected December 2026–January 2027 with the auction in September. Sunrisers Eastern Cape defend a third title. Teams, past winners, how to watch and FAQs.',

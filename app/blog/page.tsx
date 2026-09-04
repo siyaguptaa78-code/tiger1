@@ -24,6 +24,16 @@ export const metadata: Metadata = {
 
 const blogPosts = [
   {
+    id: 'september-sports-calendar-2026',
+    title: 'India\'s September Sports Calendar Heats Up With Football Giants and Major Cricket Developments',
+    excerpt: 'Indian sports fans are heading into one of the busiest periods of the year, with major developments taking place across cricket and football.',
+    category: 'Sports News',
+    date: 'September 4, 2026',
+    readTime: '6 min read',
+    emoji: '⚽🏏',
+    color: 'from-orange-900/30 to-black',
+  },
+  {
     id: 'sa20-2027',
     title: 'SA20 2027: Schedule, Teams, Auction & Everything About Season 5 of South Africa\'s T20 League',
     excerpt: 'SA20 2027 is expected December 2026–January 2027 with the auction in September. Sunrisers Eastern Cape defend a third title. Teams, past winners, how to watch and FAQs.',

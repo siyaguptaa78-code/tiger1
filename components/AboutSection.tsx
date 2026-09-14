@@ -16,20 +16,20 @@ export default function AboutSection() {
 
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white mb-6 leading-tight">
               Tiger 365 ID:{' '}
-              <span className="text-orange-500">Your Gateway</span> to Online Gaming IDs and Sports Betting
+              <span className="text-orange-500">Your Gateway</span> to Online Gaming IDs and Sports Gaming
             </h2>
 
             <div className="space-y-5 text-gray-400 text-base leading-relaxed">
               <p>
-                Tiger 365 ID is your reliable source for online gaming and sports betting IDs in India. We specialize in providing our clients with the required tools to access the best betting exchange sites and sports platforms. With Tiger 365 ID, you can enjoy cricket, football, tennis, and other sports betting with a clear mind.
+                Tiger 365 ID is your reliable source for online gaming and sports gaming IDs in India. We specialize in providing our clients with the required tools to access the best gaming exchange sites and sports platforms. With Tiger 365 ID, you can enjoy cricket, football, tennis, and other sports gaming with a clear mind.
               </p>
 
               <p>
-                Our platform grants you entry to premier sports betting, exchange services, and live games. Whether you are a professional bettor or a novice, Tiger 365 ID offers you a simple and convenient way to get started. You only need to inform us through WhatsApp, and we can offer you a solution within minutes.
+                Our platform grants you entry to premier sports gaming, exchange services, and live games. Whether you are a professional bettor or a novice, Tiger 365 ID offers you a simple and convenient way to get started. You only need to inform us through WhatsApp, and we can offer you a solution within minutes.
               </p>
 
               <p>
-                Tiger 365 ID offers you the best live cricket betting, unmatched odds, and a vast range of casino games and live sports betting. You can also make deposits and withdrawals with our 24/7 customer care at your disposal around the clock. Your security is our priority as we offer you the best encryption and protection of your data.
+                Tiger 365 ID offers you the best live cricket gaming, unmatched odds, and a vast range of casino games and live sports gaming. You can also make deposits and withdrawals with our 24/7 customer care at your disposal around the clock. Your security is our priority as we offer you the best encryption and protection of your data.
               </p>
 
               <p>
@@ -70,7 +70,7 @@ export default function AboutSection() {
               <div className="relative z-10 text-center p-12">
                 <div className="text-7xl mb-4">🏏</div>
                 <div className="text-4xl font-black text-white mb-2">Tiger<span className="text-orange-500">365</span> ID</div>
-                <div className="text-orange-400 text-lg font-medium">Premium Online Cricket Betting IDs</div>
+                <div className="text-orange-400 text-lg font-medium">Premium Online Cricket Gaming IDs</div>
                 <div className="flex justify-center gap-6 mt-8">
                   {['Cricket', 'Football', 'Casino', 'Aviator'].map((item) => (
                     <div key={item} className="text-center">

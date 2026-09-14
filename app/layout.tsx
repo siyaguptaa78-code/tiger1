@@ -9,18 +9,18 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://tiger365onlineid.co.in'),
   title: 'Tiger365 Official | Online ID & Account Information',
   description:
-    'Explore Tiger365 information, online ID guidance, sports betting and gaming resources, login help, and frequently asked questions.',
+    'Explore Tiger365 information, online ID guidance, sports gaming and gaming resources, login help, and frequently asked questions.',
   keywords: [
     'Tiger365 ID',
     'Tiger 365 ID',
-    'cricket betting ID',
-    'online betting ID India',
+    'cricket gaming ID',
+    'online gaming ID India',
     'cricket ID provider',
     'Tiger365 WhatsApp',
     'online cricket ID',
-    'sports betting India',
-    'IPL betting ID',
-    'T20 betting',
+    'sports gaming India',
+    'IPL gaming ID',
+    'T20 gaming',
   ],
   applicationName: 'Tiger365',
   authors: [{ name: 'Tiger365' }],
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Tiger365 Official | Online ID & Account Information',
-    description: 'Explore Tiger365 information, online ID guidance, sports betting and gaming resources, login help, and frequently asked questions.',
+    description: 'Explore Tiger365 information, online ID guidance, sports gaming and gaming resources, login help, and frequently asked questions.',
     type: 'website',
     locale: 'en_IN',
     url: 'https://tiger365onlineid.co.in',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Tiger365 Official | Online ID & Account Information',
-    description: 'Explore Tiger365 information, online ID guidance, sports betting and gaming resources, login help, and frequently asked questions.',
+    description: 'Explore Tiger365 information, online ID guidance, sports gaming and gaming resources, login help, and frequently asked questions.',
   },
   icons: {
     icon: '/favicon.ico',
@@ -88,7 +88,7 @@ export default function RootLayout({
                   "@id": "https://tiger365onlineid.co.in/#webpage",
                   "url": "https://tiger365onlineid.co.in/",
                   "name": "Tiger365 Official | Online ID & Account Information",
-                  "description": "Explore Tiger365 information, online ID guidance, sports betting and gaming resources, login help, and frequently asked questions.",
+                  "description": "Explore Tiger365 information, online ID guidance, sports gaming and gaming resources, login help, and frequently asked questions.",
                   "isPartOf": {
                     "@id": "https://tiger365onlineid.co.in/#website"
                   }
@@ -127,7 +127,7 @@ export default function RootLayout({
                       "name": "What sports are available on Tiger365?",
                       "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Available sports can change. Check the current sports or betting section on the website for the latest list and availability."
+                        "text": "Available sports can change. Check the current sports or gaming section on the website for the latest list and availability."
                       }
                     },
                     {

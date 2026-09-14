@@ -5,9 +5,9 @@ import { WA_LINK } from './constants';
 const features = [
   {
     id: 'safe-reliable',
-    title: 'Enjoy safe, reliable, and exciting cricket betting at Tiger365ID',
+    title: 'Enjoy safe, reliable, and exciting cricket gaming at Tiger365ID',
     description:
-      'Tiger365ID offers you all the necessary security measures for all your transactions and betting activities. Our platform uses the latest technology to protect your money and data. You can also bet with confidence knowing that you will get the best odds at the fastest payout speeds from the leading cricket betting exchange sites in the market.',
+      'Tiger365ID offers you all the necessary security measures for all your transactions and gaming activities. Our platform uses the latest technology to protect your money and data. You can also bet with confidence knowing that you will get the best odds at the fastest payout speeds from the leading cricket gaming exchange sites in the market.',
     icon: '🔒',
     highlight: 'Safe & Secure',
   },
@@ -15,15 +15,15 @@ const features = [
     id: 'full-potential',
     title: 'Find your inner potential and maximum profit at Tiger365ID',
     description:
-      'Whether you like to bet on pre match or live scores, at Tiger365ID we give you every tool needed for you to achieve your best performance. You can bet on all your favorite dawns and matches, as well as enjoy the action-packed sports betting. We also offer you the best insights and odds to increase your winning potential at every bet.',
+      'Whether you like to bet on pre match or live scores, at Tiger365ID we give you every tool needed for you to achieve your best performance. You can bet on all your favorite dawns and matches, as well as enjoy the action-packed sports gaming. We also offer you the best insights and odds to increase your winning potential at every bet.',
     icon: '📈',
     highlight: 'Maximum Potential',
   },
   {
     id: 'live-cricket',
-    title: 'Get the best live cricket betting action at Tiger365ID',
+    title: 'Get the best live cricket gaming action at Tiger365ID',
     description:
-      'There is nothing better than live action, and at Tiger365ID we let you enjoy betting on every ball, over, and wicket of your favorite matches with the best odds. We also allow you to follow the game scores and make the best decisions on your in play betting with a 24/7 customer care that stands by you at all times.',
+      'There is nothing better than live action, and at Tiger365ID we let you enjoy gaming on every ball, over, and wicket of your favorite matches with the best odds. We also allow you to follow the game scores and make the best decisions on your in play gaming with a 24/7 customer care that stands by you at all times.',
     icon: '⚡',
     highlight: 'Live Action',
   },
@@ -39,7 +39,7 @@ export default function CricketFeatures() {
             Why Choose Us
           </span>
           <h2 className="text-4xl sm:text-5xl font-black text-white">
-            Cricket Betting{' '}
+            Cricket Gaming{' '}
             <span className="text-orange-500">Features</span>
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-orange-600 to-amber-400 rounded-full mx-auto mt-4"></div>

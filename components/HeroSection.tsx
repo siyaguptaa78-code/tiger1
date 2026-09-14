@@ -76,7 +76,7 @@ export default function HeroSection() {
             {/* Description */}
             <div className="animate-on-scroll opacity-0 translate-y-8 transition-all duration-700 delay-200">
               <p className="text-gray-400 text-lg leading-relaxed max-w-lg">
-                Get your own Tiger365 ID and experience the best betting, live sports, and casino games. We offer fast and easy access to the best cricket betting and live casino sites with 24/7 support
+                Get your own Tiger365 ID and experience the best gaming, live sports, and casino games. We offer fast and easy access to the best cricket gaming and live casino sites with 24/7 support
               </p>
             </div>
 
@@ -157,7 +157,7 @@ export default function HeroSection() {
                     {/* App header */}
                     <div className="bg-orange-600 px-4 py-4 pt-8">
                       <div className="text-white font-black text-xl text-center">Tiger365 ID</div>
-                      <div className="text-orange-200 text-xs text-center mt-1">Live Cricket Betting</div>
+                      <div className="text-orange-200 text-xs text-center mt-1">Live Cricket Gaming</div>
                     </div>
 
                     {/* Live match banner */}

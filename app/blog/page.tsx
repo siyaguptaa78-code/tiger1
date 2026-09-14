@@ -5,20 +5,20 @@ import Link from 'next/link';
 import { WA_LINK } from '@/components/constants';
 
 export const metadata: Metadata = {
-  title: 'Blog – Tiger 365 ID | Cricket Betting Tips & News',
-  description: 'Read the latest cricket betting tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports betting insights.',
+  title: 'Blog – Tiger 365 ID | Cricket Gaming Tips & News',
+  description: 'Read the latest cricket gaming tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports gaming insights.',
   alternates: {
     canonical: '/blog',
   },
   openGraph: {
-    title: 'Blog – Tiger 365 ID | Cricket Betting Tips & News',
-    description: 'Read the latest cricket betting tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports betting insights.',
+    title: 'Blog – Tiger 365 ID | Cricket Gaming Tips & News',
+    description: 'Read the latest cricket gaming tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports gaming insights.',
     url: 'https://tiger365onlineid.co.in/blog',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Blog – Tiger 365 ID | Cricket Betting Tips & News',
-    description: 'Read the latest cricket betting tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports betting insights.',
+    title: 'Blog – Tiger 365 ID | Cricket Gaming Tips & News',
+    description: 'Read the latest cricket gaming tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports gaming insights.',
   },
 };
 
@@ -44,10 +44,10 @@ const blogPosts = [
     color: 'from-orange-900/30 to-black',
   },
   {
-    id: 'ipl-betting-tips-2024',
-    title: 'Top IPL Betting Tips for 2026 Season',
-    excerpt: 'Get the best strategies for IPL betting this season. Learn how to analyze team performance, pitch conditions, and player form to maximize your winnings.',
-    category: 'Cricket Betting',
+    id: 'ipl-gaming-tips-2024',
+    title: 'Top IPL Gaming Tips for 2026 Season',
+    excerpt: 'Get the best strategies for IPL gaming this season. Learn how to analyze team performance, pitch conditions, and player form to maximize your winnings.',
+    category: 'Cricket Gaming',
     date: 'June 1, 2026',
     readTime: '5 min read',
     emoji: '🏏',
@@ -55,8 +55,8 @@ const blogPosts = [
   },
   {
     id: 't20-world-cup-guide',
-    title: 'Complete Guide to T20 World Cup Betting',
-    excerpt: 'Everything you need to know about betting on the T20 World Cup. Markets, odds, and expert predictions to help you make informed decisions.',
+    title: 'Complete Guide to T20 World Cup Gaming',
+    excerpt: 'Everything you need to know about gaming on the T20 World Cup. Markets, odds, and expert predictions to help you make informed decisions.',
     category: 'Tournament Guide',
     date: 'May 28, 2026',
     readTime: '7 min read',
@@ -75,8 +75,8 @@ const blogPosts = [
   },
   {
     id: 'cricket-id-vs-exchange',
-    title: 'Cricket ID vs Betting Exchange: What\'s the Difference?',
-    excerpt: 'Confused about cricket IDs and betting exchanges? We explain the key differences, advantages, and how Tiger365 ID gives you access to both.',
+    title: 'Cricket ID vs Gaming Exchange: What\'s the Difference?',
+    excerpt: 'Confused about cricket IDs and gaming exchanges? We explain the key differences, advantages, and how Tiger365 ID gives you access to both.',
     category: 'Beginner Guide',
     date: 'May 20, 2026',
     readTime: '6 min read',
@@ -84,9 +84,9 @@ const blogPosts = [
     color: 'from-green-900/30 to-black',
   },
   {
-    id: 'safe-betting-tips',
-    title: '10 Tips for Safe and Responsible Betting in India',
-    excerpt: 'Stay safe while enjoying online sports betting. These 10 essential tips will help you bet responsibly, manage your bankroll, and avoid common mistakes.',
+    id: 'safe-gaming-tips',
+    title: '10 Tips for Safe and Responsible Gaming in India',
+    excerpt: 'Stay safe while enjoying online sports gaming. These 10 essential tips will help you bet responsibly, manage your bankroll, and avoid common mistakes.',
     category: 'Safety',
     date: 'May 15, 2026',
     readTime: '8 min read',
@@ -94,9 +94,9 @@ const blogPosts = [
     color: 'from-purple-900/30 to-black',
   },
   {
-    id: 'upi-betting-deposits',
-    title: 'How to Deposit and Withdraw via UPI for Betting',
-    excerpt: 'Step-by-step guide on making deposits and withdrawals for your cricket betting ID using UPI, IMPS, and other Indian payment methods.',
+    id: 'upi-gaming-deposits',
+    title: 'How to Deposit and Withdraw via UPI for Gaming',
+    excerpt: 'Step-by-step guide on making deposits and withdrawals for your cricket gaming ID using UPI, IMPS, and other Indian payment methods.',
     category: 'Payments',
     date: 'May 10, 2026',
     readTime: '3 min read',
@@ -113,7 +113,7 @@ export default function BlogPage() {
       {/* Info banner */}
       <div className="w-full bg-orange-950/60 border-b border-orange-500/20 py-2 px-4 text-center">
         <p className="text-xs text-orange-300/80">
-          <span className="font-semibold">Note:</span> tiger365onlineid.co.in is an informational website only and does not offer betting services.
+          <span className="font-semibold">Note:</span> tiger365onlineid.co.in is an informational website only and does not offer gaming services.
         </p>
       </div>
 
@@ -135,7 +135,7 @@ export default function BlogPage() {
             </h1>
             <div className="w-24 h-1 bg-gradient-to-r from-orange-600 to-amber-400 rounded-full mx-auto mb-6"></div>
             <p className="text-gray-400 max-w-xl mx-auto text-lg">
-              Cricket betting tips, strategies, game guides, and the latest sports news
+              Cricket gaming tips, strategies, game guides, and the latest sports news
             </p>
           </div>
         </div>
@@ -200,10 +200,10 @@ export default function BlogPage() {
       <section className="py-20 bg-black">
         <div className="max-w-3xl mx-auto px-4 text-center">
           <h2 className="text-4xl font-black text-white mb-4">
-            Ready to Start <span className="text-orange-500">Betting?</span>
+            Ready to Start <span className="text-orange-500">Gaming?</span>
           </h2>
           <p className="text-gray-400 mb-8">
-            Get your Tiger365 ID now and access the best cricket betting experience in India.
+            Get your Tiger365 ID now and access the best cricket gaming experience in India.
           </p>
           <a
             href={WA_LINK}

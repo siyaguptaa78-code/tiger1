@@ -7,6 +7,187 @@ import { WA_LINK } from '@/components/constants';
 
 const blogPosts = [
   {
+    id: 'bbl-2026-27-complete-guide',
+    title: 'BBL 2026–27 Complete Guide: Schedule, Teams, Squads, Format & Finals',
+    excerpt: 'BBL 2026-27 brings back eight franchises for another summer of T20 cricket, including the Melbourne Derby, Sydney Smash and a reported Chennai opener. Teams, format, venues and finals explained.',
+    category: 'Tournament Guide',
+    date: 'September 16, 2026',
+    readTime: '9 min read',
+    emoji: '🏏',
+    color: 'from-orange-900/30 to-black',
+    content: `
+      <p class="mb-6">The Big Bash League (BBL) returns for the 2026–27 season with another summer of high-profile T20 cricket in Australia. The competition brings together eight established franchises and a mix of Australian stars, emerging domestic players and international talent.</p>
+
+      <p class="mb-6">The BBL has become one of the most recognizable domestic T20 competitions in world cricket, combining fast-paced matches with a strong focus on entertainment, young-player development and international participation.</p>
+
+      <p class="mb-6">For cricket fans following the upcoming season, Tiger365 Online brings together the key information about the BBL 2026–27 schedule, teams, format, players, venues and finals structure.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">What Is the Big Bash League?</h3>
+      <p class="mb-6">The Big Bash League, commonly known as the BBL, is Australia's premier domestic men's T20 cricket competition. The tournament features eight city-based franchises competing in a league stage before the best-performing teams progress to the finals.</p>
+      <p class="mb-6">T20 cricket has a 20-over-per-side format, which means matches are generally shorter than traditional first-class or One-Day cricket. This format places considerable importance on power hitting, bowling variations, fielding standards and tactical decision-making. The BBL has also become an important pathway for Australian players looking to develop their skills before competing at international level.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL 2026–27 Teams</h3>
+      <p class="mb-6">The BBL continues with eight franchises, each representing a major Australian city or region. The eight-team structure creates several established rivalries, including the Melbourne Derby and Sydney Smash.</p>
+      <div class="overflow-x-auto mb-6">
+        <table class="w-full text-left border-collapse border border-gray-700">
+          <thead>
+            <tr class="bg-gray-800">
+              <th class="p-3 border border-gray-700 font-bold">Team</th>
+              <th class="p-3 border border-gray-700 font-bold">Represents</th>
+              <th class="p-3 border border-gray-700 font-bold">Home Venue</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="p-3 border border-gray-700">Adelaide Strikers</td>
+              <td class="p-3 border border-gray-700">South Australia</td>
+              <td class="p-3 border border-gray-700">Adelaide Oval</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Brisbane Heat</td>
+              <td class="p-3 border border-gray-700">Queensland</td>
+              <td class="p-3 border border-gray-700">The Gabba</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Hobart Hurricanes</td>
+              <td class="p-3 border border-gray-700">Tasmania</td>
+              <td class="p-3 border border-gray-700">Bellerive Oval</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Melbourne Renegades</td>
+              <td class="p-3 border border-gray-700">Melbourne (west)</td>
+              <td class="p-3 border border-gray-700">Marvel Stadium</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Melbourne Stars</td>
+              <td class="p-3 border border-gray-700">Melbourne</td>
+              <td class="p-3 border border-gray-700">Melbourne Cricket Ground</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Perth Scorchers</td>
+              <td class="p-3 border border-gray-700">Western Australia</td>
+              <td class="p-3 border border-gray-700">Perth Stadium</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Sydney Sixers</td>
+              <td class="p-3 border border-gray-700">Sydney</td>
+              <td class="p-3 border border-gray-700">Sydney Cricket Ground</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Sydney Thunder</td>
+              <td class="p-3 border border-gray-700">Sydney (west)</td>
+              <td class="p-3 border border-gray-700">Sydney Showground Stadium</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="mb-6">The Melbourne Renegades and Melbourne Stars contest the Melbourne Derby, while the Sydney Sixers and Sydney Thunder meet in the Sydney Smash — two of the BBL's most recognizable local rivalries.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL 2026–27 Schedule</h3>
+      <p class="mb-6">The 2026–27 BBL season is scheduled to take place during the Australian summer. The competition traditionally begins in December and continues into January, with teams playing multiple league matches before the finals.</p>
+      <p class="mb-6">The schedule is designed to accommodate Australia's broader international cricket calendar while allowing the BBL to remain one of the country's major sporting competitions during the summer. For fans following the tournament through Tiger365 Online, checking the latest official fixture information before each match is important because venues and timings can occasionally change.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL Matches in India: IST Timings</h3>
+      <p class="mb-6">The BBL attracts a significant audience in India, and matches are generally available at convenient evening or daytime hours depending on the Australian venue and local start time. Australia has several time zones — Australian Eastern, Central and Western Time — so the same match can have a different Indian Standard Time depending on where it is played. For Indian viewers, the safest approach is to check the confirmed match listing for the latest IST start time.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Squads: What Can Change</h3>
+      <p class="mb-6">The eight franchises have the opportunity to build squads containing Australian domestic players and overseas cricketers. Squads can change before and during the tournament because of international commitments, injuries, player availability, national selection, international league schedules and replacement signings. For that reason, final squad lists should always be checked against the latest team announcements.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL 2026–27 Format</h3>
+      <p class="mb-6">The BBL's competition format is designed to give teams multiple opportunities during the league stage before the finals. Teams compete in the regular season to accumulate points and establish their position on the ladder. A typical T20 league points system awards 2 points for a win, 1 point for a no-result or abandoned match, and 0 points for a loss. Net run rate can become important when teams finish level on points. The leading teams then progress into the finals series according to the BBL's competition structure.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Why Net Run Rate Matters</h3>
+      <p class="mb-6">In T20 cricket, matches can be decided by relatively small margins. If two or more teams finish the regular season with the same number of points, net run rate (NRR) can play an important role in determining their positions. Net run rate broadly compares a team's scoring rate with the scoring rate of its opponents across the relevant matches, so teams are not simply trying to win matches — the margin of victory or defeat can also influence their position when the competition becomes closely contested.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL Finals Structure & Final</h3>
+      <p class="mb-6">The BBL uses a finals system that provides several routes toward the championship match, with the exact matchups depending on the final league standings. The system gives the highest-ranked teams advantages while allowing other teams an opportunity to progress through the knockout matches — finishing higher on the ladder can provide an additional route toward the championship.</p>
+      <p class="mb-6">The BBL Final is the season's championship match, played after the finals series between the two remaining teams. It is one of the major events on Australia's domestic cricket calendar and generally attracts considerable attention from cricket fans.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Why Is the BBL Opening in Chennai?</h3>
+      <p class="mb-6">One of the unusual developments surrounding the 2026–27 season is the reported decision to stage the opening BBL match in Chennai, India. If confirmed in the final tournament arrangements, such a move would represent a notable expansion of the BBL's international footprint — providing the competition with an opportunity to connect directly with Indian cricket audiences while creating a different environment for players and supporters. Fans should check the final official fixture announcement for the confirmed venue and match arrangements.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Australian Stars and Overseas Players</h3>
+      <p class="mb-6">The BBL has traditionally provided a platform for Australian players competing for domestic recognition or looking to maintain their T20 form, featuring Australian internationals, state-level cricketers, young domestic prospects, specialist T20 players and overseas professionals.</p>
+      <p class="mb-6">International players have become an important part of the BBL, with cricketers from countries such as England, New Zealand, South Africa, the West Indies and Pakistan participating over the years. For franchises, overseas recruitment provides an opportunity to strengthen particular areas of their squads; for fans, it creates the opportunity to see international players competing outside their national teams.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL Venues</h3>
+      <p class="mb-6">The BBL is played across several Australian cricket grounds, including Adelaide Oval, The Gabba in Brisbane, Bellerive Oval in Hobart, the Melbourne Cricket Ground, Marvel Stadium, Perth Stadium, the Sydney Cricket Ground and Sydney Showground Stadium. Playing conditions can differ considerably from one venue to another — ground dimensions, pitch characteristics, weather and boundary sizes can all influence tactical decisions.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">What Makes BBL Cricket Different?</h3>
+      <p class="mb-6">The BBL has developed a distinctive identity within international T20 cricket: fast-paced matches driven by the 20-over format, city-based rivalries that add extra interest, a platform for young domestic talent to gain experience against established professionals, international participation that brings different playing styles, and a strong focus on family-friendly, match-day entertainment.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL 2026–27: Key Things to Follow</h3>
+      <ol class="list-decimal list-inside mb-6 space-y-2 text-gray-300">
+        <li><strong>Final squad announcements</strong> — teams may continue adjusting their squads before the competition begins.</li>
+        <li><strong>Overseas player availability</strong> — international schedules can influence which overseas players are available.</li>
+        <li><strong>International cricket commitments</strong> — Australian players may move between BBL and national-team duties.</li>
+        <li><strong>Points table</strong> — the standings will become increasingly important as the league stage progresses.</li>
+        <li><strong>Net run rate</strong> — NRR could become decisive if multiple teams finish with similar points.</li>
+        <li><strong>Finals qualification</strong> — the final weeks of the regular season generally provide the most intense qualification battles.</li>
+      </ol>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">How to Follow the BBL</h3>
+      <p class="mb-6">Fans can follow the BBL through official cricket websites, team channels, television broadcasters, streaming platforms, scorecards and sports news services. Live scorecards are particularly useful for following runs, wickets, strike rates, bowling figures, partnerships, required run rates and points-table movement throughout the season.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL 2026–27 Quick Guide</h3>
+      <div class="overflow-x-auto mb-6">
+        <table class="w-full text-left border-collapse border border-gray-700">
+          <thead>
+            <tr class="bg-gray-800">
+              <th class="p-3 border border-gray-700 font-bold">Category</th>
+              <th class="p-3 border border-gray-700 font-bold">Information</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="p-3 border border-gray-700">Competition</td>
+              <td class="p-3 border border-gray-700">Big Bash League</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Season</td>
+              <td class="p-3 border border-gray-700">2026–27</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Format</td>
+              <td class="p-3 border border-gray-700">Twenty20</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Teams</td>
+              <td class="p-3 border border-gray-700">8</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Country</td>
+              <td class="p-3 border border-gray-700">Australia</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Main competition period</td>
+              <td class="p-3 border border-gray-700">Australian summer (December–January)</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-gray-700">Championship match</td>
+              <td class="p-3 border border-gray-700">BBL Final</td>
+            </tr>
+            <tr class="bg-gray-800/50">
+              <td class="p-3 border border-gray-700">Major rivalries</td>
+              <td class="p-3 border border-gray-700">Melbourne Derby, Sydney Smash</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">Final Thoughts</h3>
+      <p class="mb-6">The BBL 2026–27 season will once again bring together eight franchises for a summer of fast-paced T20 cricket. With established Australian players, emerging domestic talent and international cricketers expected to feature, the competition provides plenty of storylines to follow throughout the season.</p>
+      <p class="mb-6">The points table, player performances, team combinations and qualification race will become increasingly important as the tournament progresses toward its finals. For cricket fans, the BBL remains an important part of Australia's domestic sporting calendar and an excellent opportunity to watch the next generation of Australian T20 talent.</p>
+
+      <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">BBL 2026–27: Frequently Asked Questions</h3>
+      <p class="mb-4"><strong>How many teams play in the BBL?</strong> There are eight franchises: Adelaide Strikers, Brisbane Heat, Hobart Hurricanes, Melbourne Renegades, Melbourne Stars, Perth Scorchers, Sydney Sixers and Sydney Thunder.</p>
+      <p class="mb-4"><strong>When does BBL 2026–27 start?</strong> The competition traditionally begins in December and continues into January, with the exact fixtures to be confirmed in the official schedule release.</p>
+      <p class="mb-4"><strong>What are the BBL's biggest rivalries?</strong> The Melbourne Derby (Renegades vs Stars) and the Sydney Smash (Sixers vs Thunder) are the competition's most recognizable local rivalries.</p>
+      <p class="mb-4"><strong>Is the BBL opener really being played in Chennai?</strong> It has been reported as a possibility for the 2026–27 season, but fans should check the final official fixture announcement for the confirmed venue.</p>
+      <p class="mb-6"><strong>How does net run rate affect the BBL points table?</strong> When teams finish the regular season level on points, net run rate — the difference between a team's scoring rate and that of its opponents — is used to separate them.</p>
+    `
+  },
+  {
     id: 'september-sports-calendar-2026',
     title: 'India\'s September Sports Calendar Heats Up With Football Giants and Major Cricket Developments',
     excerpt: 'Indian sports fans are heading into one of the busiest periods of the year, with major developments taking place across cricket and football.',

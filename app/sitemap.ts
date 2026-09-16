@@ -4,6 +4,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://tiger365onlineid.co.in';
 
   const blogPosts = [
+    'bbl-2026-27-complete-guide',
     'ipl-gaming-tips-2024',
     't20-world-cup-guide',
     'aviator-game-strategy',

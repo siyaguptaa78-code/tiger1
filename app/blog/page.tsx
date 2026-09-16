@@ -24,6 +24,16 @@ export const metadata: Metadata = {
 
 const blogPosts = [
   {
+    id: 'bbl-2026-27-complete-guide',
+    title: 'BBL 2026–27 Complete Guide: Schedule, Teams, Squads, Format & Finals',
+    excerpt: 'BBL 2026-27 brings back eight franchises for another summer of T20 cricket, including the Melbourne Derby, Sydney Smash and a reported Chennai opener. Teams, format, venues and finals explained.',
+    category: 'Tournament Guide',
+    date: 'September 16, 2026',
+    readTime: '9 min read',
+    emoji: '🏏',
+    color: 'from-orange-900/30 to-black',
+  },
+  {
     id: 'september-sports-calendar-2026',
     title: 'India\'s September Sports Calendar Heats Up With Football Giants and Major Cricket Developments',
     excerpt: 'Indian sports fans are heading into one of the busiest periods of the year, with major developments taking place across cricket and football.',

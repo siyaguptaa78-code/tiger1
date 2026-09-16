@@ -20,7 +20,7 @@ const blogPosts = [
 
       <p class="mb-6">The BBL has become one of the most recognizable domestic T20 competitions in world cricket, combining fast-paced matches with a strong focus on entertainment, young-player development and international participation.</p>
 
-      <p class="mb-6">For cricket fans following the upcoming season, Tiger365 Online brings together the key information about the BBL 2026–27 schedule, teams, format, players, venues and finals structure.</p>
+      <p class="mb-6">For cricket fans following the upcoming season, <a href="/" class="text-orange-500 hover:text-orange-400 underline">Tiger365 Online</a> brings together the key information about the BBL 2026–27 schedule, teams, format, players, venues and finals structure.</p>
 
       <h3 class="text-2xl font-bold text-orange-500 mt-8 mb-4">What Is the Big Bash League?</h3>
       <p class="mb-6">The Big Bash League, commonly known as the BBL, is Australia's premier domestic men's T20 cricket competition. The tournament features eight city-based franchises competing in a league stage before the best-performing teams progress to the finals.</p>
